@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/indirizzi.dir/link.d CMakeFiles/indirizzi.dir/indirizzi.cpp.o -o indirizzi

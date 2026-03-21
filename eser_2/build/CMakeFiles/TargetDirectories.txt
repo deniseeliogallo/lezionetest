@@ -1,0 +1,5 @@
+/home/pcsdocker/Data/lezionetest/eser_2/build/CMakeFiles/arraygioco.dir
+/home/pcsdocker/Data/lezionetest/eser_2/build/CMakeFiles/indirizzi.dir
+/home/pcsdocker/Data/lezionetest/eser_2/build/CMakeFiles/bubblesort.dir
+/home/pcsdocker/Data/lezionetest/eser_2/build/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/lezionetest/eser_2/build/CMakeFiles/rebuild_cache.dir

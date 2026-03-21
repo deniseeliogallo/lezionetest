@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/arraygioco.dir/link.d CMakeFiles/arraygioco.dir/arraygioco.cpp.o -o arraygioco
