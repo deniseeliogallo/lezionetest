@@ -1,0 +1,3 @@
+/home/pcsdocker/Data/lezionetest/eser_3/build/CMakeFiles/eser3.dir
+/home/pcsdocker/Data/lezionetest/eser_3/build/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/lezionetest/eser_3/build/CMakeFiles/rebuild_cache.dir
