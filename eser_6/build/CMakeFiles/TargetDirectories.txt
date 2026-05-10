@@ -1,0 +1,3 @@
+/home/pcsdocker/Data/lezionetest/eser_6/build/CMakeFiles/graph_test.dir
+/home/pcsdocker/Data/lezionetest/eser_6/build/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/lezionetest/eser_6/build/CMakeFiles/rebuild_cache.dir
