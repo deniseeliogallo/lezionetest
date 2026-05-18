@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/eser9.dir/link.d CMakeFiles/eser9.dir/main.cpp.o -o eser9

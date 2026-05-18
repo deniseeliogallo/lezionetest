@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/Dijkstra.dir/link.d CMakeFiles/Dijkstra.dir/mainDij.cpp.o -o Dijkstra
