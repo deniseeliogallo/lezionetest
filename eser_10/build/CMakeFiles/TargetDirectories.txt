@@ -1,0 +1,5 @@
+/home/pcsdocker/Data/lezionetest/eser_10/build/CMakeFiles/main_program.dir
+/home/pcsdocker/Data/lezionetest/eser_10/build/CMakeFiles/test_gradiente_coniugato.dir
+/home/pcsdocker/Data/lezionetest/eser_10/build/CMakeFiles/test.dir
+/home/pcsdocker/Data/lezionetest/eser_10/build/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/lezionetest/eser_10/build/CMakeFiles/rebuild_cache.dir
