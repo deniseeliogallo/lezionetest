@@ -69,12 +69,12 @@ class priority_queue {
 public:
     priority_queue() {}
     
-    // PUSH - Inserisce l'elemento nel set 
+    // PUSH 
     void put(T valore) {
         contenitore.insert(valore);
     }
     
-    // POP - Prende l'elemento MINIMO (il primo del set), lo cancella e lo restituisce
+    // POP
     T get() {
         if (!empty()) {
             T valore = *contenitore.begin();

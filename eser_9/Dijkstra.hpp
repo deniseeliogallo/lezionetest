@@ -34,7 +34,6 @@ unidirected_graph<T> dijkstra( const unidirected_graph<T>& grafo, T sorgente, co
         int d = dequeue.first;
         T u = dequeue.second;
 
-        // percòhè questo if diocan
         if (d > distanze[u]) continue;
 
         std::set<T> vicini = grafo.neighbors(u);
